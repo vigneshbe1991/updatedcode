@@ -1,0 +1,46 @@
+
+
+ .app-container{
+   min-height: 455px;
+   margin: 30px 0;
+   box-shadow: 0 0 4px 0 #ccc;
+ }
+
+.home {
+  list-style-type: none;
+}
+
+.footer {
+background-color: lightblue;
+}
+
+.details {
+  margin-bottom: 20px;
+}
+
+.header{
+  width: 100%;
+  padding: 20px 0;
+  background: #e1e1e1;
+  text-align: center;
+  color:#4a148c;
+  text-transform: uppercase;
+  }
+
+ footer{
+  padding: 10px 20px;
+  background: #c3c3a2;
+  color: #ffffff;
+  }
+  .full{
+    min-height: 100vh;
+    margin-bottom: 0;
+  }
+
+  .App{
+      text-align: center;
+      min-height: 100vh;
+      display: flex;
+      flex-flow: column wrap;
+      overflow: hidden;
+  }
